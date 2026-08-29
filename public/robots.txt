@@ -1,0 +1,6 @@
+# https://www.rfc-editor.org/rfc/rfc9309
+
+User-agent: *
+Allow: /
+
+Sitemap: https://oaktyres.uk/sitemap.xml
